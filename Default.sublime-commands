@@ -2,5 +2,9 @@
     {
         "caption": "file_2_stata",
         "command": "file_2_stata"
+    },
+    {
+        "caption": "text_2_stata",
+        "command": "text_2_stata"
     }
 ]

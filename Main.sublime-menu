@@ -4,8 +4,18 @@
         "children":
         [
             {
-                "caption": "Run file in stata",
-                "command": "file_2_stata"
+                "caption": "Stata",
+                "children":
+                [
+                    {
+                        "caption": "Do selection",
+                        "command": "text_2_stata"
+                    },
+                    {
+                        "caption": "Do file",
+                        "command": "file_2_stata"
+                    }
+                ]
             }
         ]
     }

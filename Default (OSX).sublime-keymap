@@ -1,4 +1,7 @@
 [
   { "keys": ["super+ctrl+r"],
-    "command":"file_2_stata"}
+    "command":"file_2_stata"},
+  { "keys": ["super+shift+r"],
+    "command":"text_2_stata"}
+
 ]
