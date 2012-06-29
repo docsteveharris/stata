@@ -2,7 +2,7 @@ import os, sys
 import subprocess
 import sublime_plugin 
 
-class sublime_2_stataCommand(sublime_plugin.WindowCommand):  
+class file_2_stataCommand(sublime_plugin.WindowCommand):  
     def run(self):  
         filename = self.window.active_view().file_name()
 

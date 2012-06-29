@@ -4,8 +4,8 @@
         "children":
         [
             {
-                "caption": "2stata",
-                "command": "Marked"
+                "caption": "Run file in stata",
+                "command": "file_2_stata"
             }
         ]
     }

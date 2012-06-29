@@ -1,7 +1,4 @@
 [
-    // Send file to stata
-    { 
-        "keys": ["super+ctrl+r"], "command": "sublime_2_stata"
-    }
-
+  { "keys": ["super+ctrl+r"],     
+    "command":"file_2_stata"}
 ]
