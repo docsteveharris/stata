@@ -1,3 +1,8 @@
+## Revision Log
+
+- 131120: there is a package by Andrew Heiss at https://github.com/andrewheiss/SublimeStata13 which works for Stata 13
+- 131120: updated: now works with Stata 12: Note you *must* go to Preferences>Do-file editor>Advanced and uncheck the box which says "Edit do-files opened from the Finder in Do-file Editor" 
+
 ##   Syntax highlighting for Stata in Sublime text
 
 This is a hacked version of the textmate bundle from http://bylr.net/3/2010/10/stata-bundle-for-textmate/.
